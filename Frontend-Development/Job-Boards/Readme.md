@@ -15,3 +15,4 @@
 - [Remote Frontend Engineer](https://4dayweek.io/remote-jobs/frontend-engineer) - 4/day week
 - [Remote Frontend Jobs](https://www.remotefrontendjobs.com/) - remotefrontendjobs
 - [Junior Frontend Jobs](https://www.jrdevjobs.com/jobs#page=1&query=Frontend+developer) - Jr.Dev jobs
+- [Frontend Developer Jobs(Remote and On-Site)](https://www.dice.com/jobs?q=frontend%20web%20developer&countryCode=US&radius=30&radiusUnit=mi&page=1&pageSize=20&language=en&eid=S2Q_) - Dice.com
